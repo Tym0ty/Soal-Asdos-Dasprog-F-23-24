@@ -1,0 +1,22 @@
+ADD 1
+Ayam Goreng
+25000 20
+ADD 2
+Nasi Geprek
+20000 10
+ADD 3
+Siomay Basah
+14000 15
+INFO 2
+INFO 4
+ADD 3
+Siomay Goreng
+16000 10
+ORDER 1 6
+ORDER 2 15
+REMOVE 2
+REMOVE 2
+INFO 2
+ORDER 5 7
+CLOSE
+
